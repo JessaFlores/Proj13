@@ -1,0 +1,2 @@
+10-06 22:22:58   Modem Assert GLAYER1 Task  in file dcwg_handlewtask.c at line 8929 exp=FALSE info=[L1WG no space buf to save w cbs task!!]
+03-08 12:26:08   Modem Assert GLAYER1 Task  in file dcwg_handlewtask.c at line 8930 exp=FALSE info=[L1WG no space buf to save w cbs task!!]
